@@ -1,3 +1,8 @@
+/*
+Trabalhando com outras estruturas de decisão, como o switch case e o while.
+Outro formulário
+*/
+
 const pergunta1 = prompt("Qual área deseja seguir ? Front-End ou Back-End?");
 
 if (pergunta1 == "Front-End") {

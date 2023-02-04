@@ -1,3 +1,7 @@
+/*
+Por fim criamos uma calculadora com tudo que já foi repassado anteriormente.
+*/
+
 function fn_somar () {
     primeiroNumero = prompt("Digite o primeiro número: ")
     segundoNumero = prompt("Digite o segundo número: ")

@@ -1,3 +1,7 @@
+/*
+Comparando valores e tipos de strings com inteiros.
+*/
+
 let numeroUm = 1
 let stringUm = '1'
 let numeroTrinta = 30

@@ -1,3 +1,8 @@
+/*
+Trabalhando com estruturas de decisão e inputs de informações.
+Aqui temos um formulário simples.
+*/
+
 const nome = prompt("Qual o seu nome?");
 
 const idade = prompt("Quantos anos você tem?");

@@ -1,3 +1,8 @@
+/*
+Nesse desafio temos a missão de criar uma lista de compras e classificar de acordo com sua categoria.
+Aqui trabalhamos com a utilização de listas, e o método push para inserir o dado na minha lista.
+*/
+
 let frutas = [];
 let massas = [];
 let doces = [];

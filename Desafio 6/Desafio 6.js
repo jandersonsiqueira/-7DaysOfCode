@@ -1,3 +1,7 @@
+/*
+Continuando o desafio, aqui criamos a opção de remover a fruta e utilizando umas funções para otimizar o código.
+*/
+
 function removerItemDaLista () {
 
     remover = prompt(`Lista de compras:\n  Frutas: ${frutas}\n  Laticínios: ${massas}\n  Doces: ${doces}\n  Congelados: ${frios}\n\nQual produto você deseja remover?`);
